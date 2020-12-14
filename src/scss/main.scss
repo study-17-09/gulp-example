@@ -1,0 +1,17 @@
+$color: #fffaab;
+$bg-color: #ccaaff;
+
+body {
+  background-color: $bg-color;
+
+  & h1 {
+    color: $color;
+    display: flex;
+  }
+
+  & img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+  }
+}

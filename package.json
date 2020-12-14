@@ -1,0 +1,29 @@
+{
+  "name": "gulp-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/study-17-09/gulp-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/study-17-09/gulp-example/issues"
+  },
+  "homepage": "https://github.com/study-17-09/gulp-example#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "cssnano": "^4.1.10",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-js-minify": "0.0.3",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify-inline": "^0.1.1"
+  }
+}
